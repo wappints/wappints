@@ -10,7 +10,7 @@ It focuses on extracting certain road physical features that falls under livabil
 This study will be significant towards future works that will involve assessing livability of a certain area, 
 in relation to fields of urban planning and development.
 
-💬 My interests are quite ✨extensive✨ in the field, so I like delving on any topic.
+💬 My interests are quite ✨extensive✨ in the field, so I like being the jack of all trades <3
 
 <!--
 **wappints/wappints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

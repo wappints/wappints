@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a third-year student in [De La Salle University (DLSU)](https://www.dlsu.edu.ph/) 
+I am currently a third-year student in [De La Salle University (DLSU)](https://www.dlsu.edu.ph/) &nbsp
 undertaking Bachelor of Science in Computer Science: Major in Computer Systems Engineering.
 
 You may check my [Linkedin profile](https://www.linkedin.com/in/yeohany/) for more information about me! 

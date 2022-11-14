@@ -1,6 +1,6 @@
 ### Welcome to my RepoHub 👋
 
-💬 I am a 3rd-year student in [De La Salle University (DLSU)](https://www.dlsu.edu.ph/) 
+💬 I am a 4th-year student in [De La Salle University (DLSU)](https://www.dlsu.edu.ph/) 
 undertaking Bachelor of Science in Computer Science: Major in Computer Systems Engineering.
 
 

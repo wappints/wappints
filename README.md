@@ -4,7 +4,7 @@
 undertaking Bachelor of Science in Computer Science: Major in Computer Systems Engineering.
 
 
-💬 Our working thesis is initially titled "Design and Development of a Computer-Assisted Road Physical Feature Extraction" or short for RFEX. 
+💬 Our thesis is titled "Design and Development of a Computer-Assisted Road Physical Feature Extraction" or short for RFEX. 
 It focuses on extracting certain road physical features that falls under livability and storing it in a database. 
 This study will be significant towards future works that will involve assessing livability of a certain area, 
 in relation to fields of urban planning and development.

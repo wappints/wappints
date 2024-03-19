@@ -1,3 +1,6 @@
-👋 Hi there! I'm Yeohan, a passionate learner for Artificial Intelligence (A.I.). With a profound interest in Machine Learning and its applications, I'm excited for innovative ways to integrate A.I. solutions into various domains.
+### Welcome 🙏 
 
-I thrive on constantly seeking ways to leverage A.I. to solve real-world problems. From predictive analytics to computer vision, I'm happy to tackle any kind of problem.
+👋 Hi there! I'm Yeohan, a passionate learner for Artificial Intelligence (A.I.).
+I'm excited for innovative ways to integrate A.I. solutions into various domains.
+
+Whether those problems be about predictive analytics or computer vision, I'm happy to tackle any of the kind.
